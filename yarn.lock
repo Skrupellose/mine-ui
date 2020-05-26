@@ -1640,6 +1640,11 @@ babel-plugin-dynamic-import-node@^2.3.0, babel-plugin-dynamic-import-node@^2.3.3
   dependencies:
     object.assign "^4.1.0"
 
+bable-loader@^0.0.1-security:
+  version "0.0.1-security"
+  resolved "https://registry.yarnpkg.com/bable-loader/-/bable-loader-0.0.1-security.tgz#d4e36f85e65a6a4f701c55cb0eb8925b0a046412"
+  integrity sha512-c+3kzBR1xfVF2s/Lxk0J9rnI8lXJ7gGqcRTOcnvvrknHGiHHRoZbxrkh+Hq0eOb2tnZB3WvDSkD9yi5vV5bFCA==
+
 balanced-match@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/balanced-match/download/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
